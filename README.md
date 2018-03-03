@@ -13,3 +13,4 @@ https://github.com/SaintFenix/Awesome-Neural-Style
 https://github.com/albarji/neural-style-docker
 https://github.com/andersbll/neural_artistic_style
 https://github.com/jcjohnson/fast-neural-style
+https://reddit.com/r/MediaSynthesis/
